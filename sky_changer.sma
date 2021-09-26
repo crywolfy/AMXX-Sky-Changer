@@ -1,14 +1,3 @@
-
-SHARE
-TWEET
-crywolfy
-sky_changer-new
-CRYWOLFY
-SEP 21ST, 2014
-2,079
-NEVER
- 1.30 KB
-      
 #include < amxmodx >
  
  
